@@ -1,8 +1,4 @@
-
-# Oh, Hey!
-
-<img align='center' src='https://media2.giphy.com/media/jsxp1hRj8UAUVbC92s/giphy.webp?cid=790b7611mizlx2jxcnk89a3lje0xn08omjekkpuoz5aqbzlu&ep=v1_gifs_search&rid=giphy.webp&ct=s' width='200"'>
-
+<img align='center' src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDAxZ3NibHo1OWFuMW9kb2t0MTVwNWdqZzJkZjJzMGQ4eXh2eWdlMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif' width='200"'>
 
 <!---
 ABottleOfSprite/ABottleOfSprite is a ✨ special✨  repository because its `README.md` (this file) appears on your GitHub profile.
