@@ -1,6 +1,3 @@
-<img align='center' src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDAxZ3NibHo1OWFuMW9kb2t0MTVwNWdqZzJkZjJzMGQ4eXh2eWdlMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif' width='200"'>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonpilane&show_icons=true&hide_border=true&title_color=fca311&icon_color=fca311&border_radius=10&bg_color=000000&text_color=d0f4de)
 
-<!---
-ABottleOfSprite/ABottleOfSprite is a ✨ special✨  repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonpilane&hide=html,css&show_icons=true&hide_border=true&title_color=fca311&icon_color=fca311&border_radius=10&bg_color=000000&text_color=d0f4de)
