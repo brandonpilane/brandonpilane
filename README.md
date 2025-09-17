@@ -1,8 +1,4 @@
 <p align="center">
-  I make ideas that <sub>sometimes</sub> work.  
-</p>
-
-<p align="center">
   Mechatronics student · Building with code, electronics, and the occasional bad idea.  
 </p>
 
